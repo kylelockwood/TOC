@@ -1,0 +1,4 @@
+*.json
+*.csv
+*.pickle
+html_gen/
